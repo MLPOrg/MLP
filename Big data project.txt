@@ -1,0 +1,29 @@
+         TO KNOW HADOOP BETTER!!! :)
+
+
+ *Few list of Titles of Hadoop Projects for Students:
+
+  1  Directed Model Crash Traces and Checking Using Bug Reproduction Scheme
+   2 Fault Explanation and Detection on Sensor Streams Over Big Data Analytics
+   3 Azure Cortina and Internet of Things Intelligence suite in Real Time Business
+   4 Enhance Big Genomic Data Analysis Performance Using a Novel Cost Effective Approach in Clouds
+ 5   Root Cause Analysis Using Data Driven Solution in Cloud Computing Environments
+  6  Big Data Sales Forecasting Using Parallel Aspect Oriented Sentiment Analysis
+  7  Large Scale Railway Networks Using Dynamic Delay Prediction for Shallow and Deep Extreme Learning Machines over Threshold-out
+ 8   Enrich Performance on Heterogeneous Hadoop YARN Using Container Deployment Based on Efficient vCore
+  9  Enhance Heterogeneous MapReduce Clusters Performance with Adaptive Task Tuning
+10    Item Based Collaborative Filtering Recommendation Algorithm Using an Optimized MapReduce with Empirical Analysis
+ 11   Spatial Coding Based Mechanism in Hadoop for Partitioning Big Spatial Data
+  12  Optimization of Big Data Analysis Performance in Distributed Platform Using an Innovative Pattern Classifier Mechanism
+ 13   Principle Component Analysis Based on Hadoop in Embedded Heterogeneous Platform
+  14  Distributed Computing Infrastructure for Distribution Feeders Optimal Control with Smart Loads
+   15 Bayes Classifier Based Algorithm on Big Data Platform for Massive Stream Dat
+
+
+
+*Find out Number of Products Sold in Each Country. 
+
+*Problem statement: I run a highly busy website and need to pull down my site for an hour in order to apply some patches and maintenance of backend severs, which means the website will be completely unavailable for an hour. To perform this activity the primary lookout will be that shutdown outage should be affected to least number of users. The games starts here: We need to identify at what hour of the day the web traffic is least for the website so that maintenance activity can be scheduled for that time.
+There is an Apache web server log for each day which records the activities happening on website. But those are huge files up to 5 GB each.
+
+*Map reduce Use case – Titanic Data Analysis 
